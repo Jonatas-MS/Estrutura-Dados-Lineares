@@ -7,7 +7,7 @@ import java.util.Vector;
  *
  * @author jonatas-ms
  */
-public class No implements Position {
+public class No {
 
     //atributos do No
     private Object o;
