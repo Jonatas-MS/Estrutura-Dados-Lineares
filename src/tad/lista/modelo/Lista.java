@@ -1,6 +1,6 @@
 package tad.lista.modelo;
 
-import no.DNodo;
+import listaligada.duplamente.modelos.no.DNodo;
 
 /**
  *

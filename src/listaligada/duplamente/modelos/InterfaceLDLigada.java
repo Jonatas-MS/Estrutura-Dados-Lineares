@@ -1,7 +1,7 @@
 package listaligada.duplamente.modelos;
 
+import listaligada.duplamente.modelos.no.DNodo;
 import listaligada.duplamente.excecoes.*;
-import no.*;
 
 /**
  *

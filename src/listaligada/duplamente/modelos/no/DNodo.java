@@ -1,4 +1,4 @@
-package no;
+package listaligada.duplamente.modelos.no;
 
 /**
  *
